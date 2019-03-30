@@ -2,6 +2,6 @@
 Tensorflow   
 ResNet    
 
-Code of our paper 
-Boundary Aware Multi-Focus Image Fusion Using Deep Neural Network
+Code of our paper
+/Boundary Aware Multi-Focus Image Fusion Using Deep Neural Network
       
