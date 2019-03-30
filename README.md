@@ -1,5 +1,7 @@
-# ResNet_cifar
-Tensorflowr   
+# Cascade FusionNet
+Tensorflow   
 ResNet    
-cifar10 and cifar100   
-blog：http://blog.csdn.net/chaipp0607/article/details/75577305#comments
+
+Code of our paper 
+        Boundary Aware Multi-Focus Image Fusion Using Deep Neural Network
+      
