@@ -1,2 +1,5 @@
-# BoundaryAware-Fusion-CNN
-Code for our ICME 2019 paper Boundary Aware Multi-Focus Image Fusion Using Deep Neural Network
+# ResNet_cifar
+Tensorflowr   
+ResNet    
+cifar10 and cifar100   
+blog：http://blog.csdn.net/chaipp0607/article/details/75577305#comments
